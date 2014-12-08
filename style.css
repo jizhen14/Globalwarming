@@ -40,3 +40,8 @@
       img {
         border: 7px ridge white;
       }
+      
+      a:hover {
+          color:maroon;
+      }
+      }
